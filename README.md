@@ -57,4 +57,4 @@ python3 用户必须先执行命令 `python3 -m pip install beautifulsoup4==4.7.
 8. pipenv install -r requirements_py3_console.txt
 9. pipenv install -r requirements_py3_gui.txt
 10. (pythonenv-X-dP51br) D:\pythonenv\win_64_source>pyinstaller -F -w -i duboku_small.ico duboku_gui.py
-这样打出来的包只有40多m，直接打包有120多m，exe在D:\pythonenv\win_64_source\dist下
+11. exe在D:\pythonenv\win_64_source\dist下 这样打出来的包只有40多m，直接打包有120多m。
