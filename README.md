@@ -40,21 +40,11 @@ Windows (64-bit) 用户，只需要下载 "[独播库下载器_win_64_exe.zip](h
 ---
 ### python 3 用户:
 
-只适用于windows用户，选择win_64_source 目录。
+只适用于windows用户。
 
-你可以 `python3 duboku_gui.py` 打开图形界面，或 `python3 duboku_console.py -选项` 使用命令行界面。
+使用 `python3 duboku_gui.py` 打开图形界面，或 `python3 duboku_console.py -选项` 使用命令行界面。
 
 python3 用户必须先执行命令 `python3 -m pip install beautifulsoup4==4.7.1` 才能正常使用。其余 `pip` 的依赖请参考 requirements_py3_gui.txt(图形界面) 或 requirements_py3_console.txt(命令行) 文件。如使用 socks ，需要 `python3 -m pip install pysocks` 及 `python3 -m pip install -U requests[socks]`。
-
-
-###### 命令行界面的用法:
-请自行参考 `python3 duboku_console.py --help`。
-
-例子1(连续剧): `python3 duboku_console.py https://tv.newsinportal.com/vodplay/1324-1-11.html -d 冰糖炖雪梨/ --from-ep 1 -to-ep 5`    
-
-例子2(储存开 issue 需要的 duboku_epN.log 日志): `python3 duboku_console.py https://www.duboku.net/voddetail/1152.html -f 返校 --debug`   
-
-例子3(HTTPS 代理): `python3 duboku_console.py https://www.duboku.net/voddetail/1152.html -f 返校 --proxy https://127.0.0.1:22`
 
 
 ###### 打包exe:
