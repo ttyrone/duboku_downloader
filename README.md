@@ -33,7 +33,7 @@ https://m.duboku.fun/voddetail/2485.html 粘贴这样的网址
 
 ---
 ### 普通用户:
-Windows (64-bit) 用户，只需要下载 "[独播库下载器_win_64_exe.zip](https://github.com/limkokhole/duboku-downloader/raw/master/%E7%8B%AC%E6%92%AD%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8_win_64_exe.zip)", 解压缩后， 双击 "独播库下载器改进版 win_64 v1.1.exe" 文件执行。 
+Windows (64-bit) 用户，只需要下载 "[独播库下载器_win_64_exe.zip](https://www.aliyundrive.com/s/mLp4GwuzpKt)", 解压缩后， 双击 "独播库下载器改进版 win_64 v1.1.exe" 文件执行。 
 ### 示范视频参见原作者视频 (点击图片会在 YouTube 打开):
 [![watch in youtube](https://i.ytimg.com/vi/eejUgl7Ku8E/hqdefault.jpg)](https://www.youtube.com/watch?v=eejUgl7Ku8E "独播库下载器")
 
