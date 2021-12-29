@@ -47,6 +47,7 @@ python3 用户必须先执行命令 `python3 -m pip install beautifulsoup4==4.7.
 
 ###### 打包exe:
 在虚拟环境下打包，这样文件比较小
+在管理员模式下运行
 1. pip install pipenv
 2. cd D:\pythonenv #新建pythonenv目录，在这个目录下进行后续操作
 3. pipenv install --python 3.7 这个库适用3.7
